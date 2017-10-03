@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Calculator\demo2\bin\Debug\demo2.exe
+C:\Users\Admin\Desktop\Calculator\demo2\bin\Debug\demo2.pdb
+C:\Users\Admin\Desktop\Calculator\demo2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Calculator\demo2\obj\x86\Debug\demo2.Properties.Resources.resources
+C:\Users\Admin\Desktop\Calculator\demo2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\Calculator\demo2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\Calculator\demo2\obj\x86\Debug\demo2.exe
+C:\Users\Admin\Desktop\Calculator\demo2\obj\x86\Debug\demo2.pdb
